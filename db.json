@@ -2,42 +2,42 @@
   "donations": [{
       "id": 1,
       "donor_id": 5,
-      "amount": 160.06,
+      "amount": 16006,
       "date": "2023-01-04T07:04:46Z"
     }, {
       "id": 2,
       "donor_id": 2,
-      "amount": 135.45,
+      "amount": 13545,
       "date": "2023-01-14T21:02:49Z"
     }, {
       "id": 3,
       "donor_id": 1,
-      "amount": 970.04,
+      "amount": 97004,
       "date": "2023-02-13T20:24:54Z"
     }, {
       "id": 4,
       "donor_id": 4,
-      "amount": 317.35,
+      "amount": 31735,
       "date": "2023-01-11T16:13:50Z"
     }, {
       "id": 5,
       "donor_id": 1,
-      "amount": 231.04,
+      "amount": 23104,
       "date": "2023-02-24T00:03:52Z"
     }, {
       "id": 6,
       "donor_id": 4,
-      "amount": 566.84,
+      "amount": 56684,
       "date": "2023-02-14T12:57:36Z"
     }, {
       "id": 7,
       "donor_id": 3,
-      "amount": 835.26,
+      "amount": 83526,
       "date": "2023-02-22T21:08:32Z"
     }, {
       "id": 8,
       "donor_id": 2,
-      "amount": 118.7,
+      "amount": 1187,
       "date": "2023-01-04T05:34:42Z"
     }, {
       "id": 9,
@@ -47,42 +47,42 @@
     }, {
       "id": 10,
       "donor_id": 2,
-      "amount": 524.11,
+      "amount": 52411,
       "date": "2023-01-28T07:59:19Z"
     }, {
       "id": 11,
       "donor_id": 4,
-      "amount": 758.95,
+      "amount": 75895,
       "date": "2023-01-17T00:16:50Z"
     }, {
       "id": 12,
       "donor_id": 1,
-      "amount": 945.11,
+      "amount": 94511,
       "date": "2023-02-26T10:08:04Z"
     }, {
       "id": 13,
       "donor_id": 2,
-      "amount": 22.75,
+      "amount": 2275,
       "date": "2023-02-26T13:54:34Z"
     }, {
       "id": 14,
       "donor_id": 4,
-      "amount": 687.72,
+      "amount": 68772,
       "date": "2023-02-23T15:09:05Z"
     }, {
       "id": 15,
       "donor_id": 1,
-      "amount": 642.91,
+      "amount": 64291,
       "date": "2023-01-27T15:17:45Z"
     }, {
       "id": 16,
       "donor_id": 5,
-      "amount": 280.98,
+      "amount": 28098,
       "date": "2023-02-17T05:56:51Z"
     }, {
       "id": 17,
       "donor_id": 1,
-      "amount": 512.38,
+      "amount": 51238,
       "date": "2023-02-20T07:38:59Z"
     }, {
       "id": 18,
@@ -92,7 +92,7 @@
     }, {
       "id": 19,
       "donor_id": 3,
-      "amount": 389.89,
+      "amount": 38989,
       "date": "2023-02-11T19:59:14Z"
     }, {
       "id": 20,
@@ -102,27 +102,27 @@
     }, {
       "id": 21,
       "donor_id": 1,
-      "amount": 332.98,
+      "amount": 33298,
       "date": "2023-01-28T22:05:12Z"
     }, {
       "id": 22,
       "donor_id": 1,
-      "amount": 980.48,
+      "amount": 98048,
       "date": "2023-02-22T07:11:01Z"
     }, {
       "id": 23,
       "donor_id": 4,
-      "amount": 63.08,
+      "amount": 6308,
       "date": "2023-01-07T17:53:42Z"
     }, {
       "id": 24,
       "donor_id": 2,
-      "amount": 758.68,
+      "amount": 75868,
       "date": "2023-01-02T09:29:09Z"
     }, {
       "id": 25,
       "donor_id": 2,
-      "amount": 481.72,
+      "amount": 48172,
       "date": "2023-02-14T04:44:33Z"
     }],
   "donors":[{
